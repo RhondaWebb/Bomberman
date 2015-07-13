@@ -5,6 +5,13 @@ This project is coded in 4 days for company internal competition.
 
 We used [libGDX](http://libgdx.badlogicgames.com) for OpenGL ES on Android, [libgdx stagebuilder](https://github.com/peakgames/libgdx-stagebuilder) which is opensource project, and AppWarp (appwarp.shephertz.com) for multiplayer server
 
+I reminisce the days playing Super Mario, Kung fu, Marble Madnes, and even the Double Dribble. We develop the project coded Bomberman game for you! 
+
+Bomberman was the first in a long-running series of games. The goal was to plant bombs within mazes and use the explosions, which filled the maze corridors with flame, to destroy monsters and open up new paths. See some power-ups [here](https://essaydoc.com ) in  addition. Get the Bomberman to run faster and played it on your own desktop! 
+
+Below are the set-ups.
+
+
 Running Project
 ------
 
